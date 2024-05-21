@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#db4f4c</color>
+    <color name="white">#db4f4c</color>
+    <color name="constraintColor">#D9905E</color>
+    <color name="edittextColor">#F7F6F8</color>
+    <color name="buttonColor">#4F025C</color>
+</resources>

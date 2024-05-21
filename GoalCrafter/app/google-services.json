@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1043729234313",
+    "project_id": "goalcrafter-eaa50",
+    "storage_bucket": "goalcrafter-eaa50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043729234313:android:bc13dab83988445b61c958",
+        "android_client_info": {
+          "package_name": "com.seyit.goalcrafter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043729234313-au2duj5c3iq3eldl22oja3lqcafhvj05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seyit.goalcrafter",
+            "certificate_hash": "2a999ffba74266a2dc634bdd3f2874636dd86f02"
+          }
+        },
+        {
+          "client_id": "1043729234313-s8tlpohj9f07ud9ie507a0v4n17r16ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWx4W1HTNZb4fUktO8kzJtTStCf8vogU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043729234313-s8tlpohj9f07ud9ie507a0v4n17r16ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
